@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Temporary Capital",
+        "isNationalWonder": true,
+        "cost": 1,
+        "uniques": [
+            "Indicates the capital city",
+            "Can only be built <in [non-[Puppeted]] cities> <in cities without a [Palace]>",
+            "Remove [Palace] [in all cities]",
+            "Remove [Temporary Capital] [in all cities] <upon constructing [Palace]>"
+        ]
+    }
+]
