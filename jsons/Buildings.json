@@ -5,9 +5,9 @@
         "cost": 1,
         "uniques": [
             "Indicates the capital city",
-            "Can only be built <in [non-[Puppeted]] cities> <in cities without a [Palace]>",
-            "Remove [Palace] [in all cities]",
-            "Remove [Temporary Capital] [in all cities] <upon constructing [Palace]>"
+            "Can only be built <in [{non-[Puppeted]} {non-[Capital]}] cities>",
+            "Remove [{Indicates the capital city} {non-[Temporary Capital]}] [in all cities]",
+            "Remove [Temporary Capital] [in all cities] <upon constructing [{Indicates the capital city} {non-[Temporary Capital]}]>"
         ]
     }
 ]
